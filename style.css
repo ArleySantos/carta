@@ -19,7 +19,7 @@ header{
     width: 100%;
     min-width: 350px;
     text-align: center;
-    background-color: red;
+    background-color: rgb(245, 107, 107);
     height: 80px;
     padding-top: 30px;
     color: white;
@@ -47,6 +47,8 @@ div#texto{
     background-color: white;
     text-align: center;
     line-height: 2em;
+    line-height: 2em;background-color: rgb(255, 173, 251);
+
 }
 
 div#texto p{
